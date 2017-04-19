@@ -1,0 +1,11 @@
+C:\AMIS\BuckeyeStore\tests\buckeyestore.api.tests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\AMIS\BuckeyeStore\tests\buckeyestore.api.tests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\AMIS\BuckeyeStore\tests\buckeyestore.api.tests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\AMIS\BuckeyeStore\tests\buckeyestore.api.tests\bin\Debug\netcoreapp1.1\buckeyestore.api.tests.deps.json
+C:\AMIS\BuckeyeStore\tests\buckeyestore.api.tests\bin\Debug\netcoreapp1.1\buckeyestore.api.tests.runtimeconfig.json
+C:\AMIS\BuckeyeStore\tests\buckeyestore.api.tests\bin\Debug\netcoreapp1.1\buckeyestore.api.tests.runtimeconfig.dev.json
+C:\AMIS\BuckeyeStore\tests\buckeyestore.api.tests\bin\Debug\netcoreapp1.1\buckeyestore.api.tests.dll
+C:\AMIS\BuckeyeStore\tests\buckeyestore.api.tests\bin\Debug\netcoreapp1.1\buckeyestore.api.tests.pdb
+C:\AMIS\BuckeyeStore\tests\buckeyestore.api.tests\obj\Debug\netcoreapp1.1\buckeyestore.api.tests.AssemblyInfo.cs
+C:\AMIS\BuckeyeStore\tests\buckeyestore.api.tests\obj\Debug\netcoreapp1.1\buckeyestore.api.tests.dll
+C:\AMIS\BuckeyeStore\tests\buckeyestore.api.tests\obj\Debug\netcoreapp1.1\buckeyestore.api.tests.pdb

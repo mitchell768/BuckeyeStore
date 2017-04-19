@@ -9,3 +9,5 @@ C:\AMIS\BuckeyeStore\Tests\BuckeyeStore.Core.Tests\bin\Debug\netcoreapp1.1\Bucke
 C:\AMIS\BuckeyeStore\Tests\BuckeyeStore.Core.Tests\obj\Debug\netcoreapp1.1\BuckeyeStore.Core.Tests.AssemblyInfo.cs
 C:\AMIS\BuckeyeStore\Tests\BuckeyeStore.Core.Tests\obj\Debug\netcoreapp1.1\BuckeyeStore.Core.Tests.dll
 C:\AMIS\BuckeyeStore\Tests\BuckeyeStore.Core.Tests\obj\Debug\netcoreapp1.1\BuckeyeStore.Core.Tests.pdb
+C:\AMIS\BuckeyeStore\tests\BuckeyeStore.Core.TEsts\bin\Debug\netcoreapp1.1\BuckeyeStore.Core.dll
+C:\AMIS\BuckeyeStore\tests\BuckeyeStore.Core.TEsts\bin\Debug\netcoreapp1.1\BuckeyeStore.Core.pdb
